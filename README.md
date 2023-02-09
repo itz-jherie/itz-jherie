@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Polygon, Solidity, EthersJS and other web3 technologies**
 
-- 👯 I’m looking to collaborate on [This web3 ecommerce site](http://ecommerce-itz-jherie.vercel.app/)
+- 👯 I’m open to collaborations
 
 - 🤝 I’m looking for help with **Referrals, Job Placements/Internships**
 
@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **jherieelegba@gmail.com**
 
+
+- **[RESUME LINK HERE](https://pdfhost.io/v/oJVWx9CN8_Jeremiahs_Resume)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_jherie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jherie_" height="30" width="40" /></a>
