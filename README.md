@@ -14,7 +14,7 @@
 - 📫 How to reach me **jherieelegba@gmail.com**
 
 
-- **[RESUME LINK HERE](https://pdfhost.io/v/oJVWx9CN8_Jeremiahs_Resume)**
+- **[RESUME LINK HERE](https://pdfhost.io/v/K4wzewhgdv_Jeremiah_Resume)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_jherie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jherie_" height="30" width="40" /></a>
